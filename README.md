@@ -1,1 +1,15 @@
 # CS-340
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+-It helps to break down a larger function into smaller components or actions known as methods. This allows us not only re-use these actions but also to simplify the design of an application. Beyond that it is important to follow widely accepted practices that allow developers to understand the code. It may not hurt to include comments that describe the action of different functions in an application so that future developers can understand the action being taken. Compartmentalization of code into several components also allows us to reuse the code, which can make it highly adaptable for future groth. 
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+-A scientific approach is a full envolpment of any particular project or request. It goes beyond a completed project,but includes research and planning as well as documentation. Within this course we've planned out our approach for each step in the project by viewing the final result as a series of functional components that needed to work together. We studied each seperate piece and the surrounding configuration required to make them work, and we tested each piece of it to ensure it worked as designed. In the end we included screenshots and documentation to provide direction for how to use the application and background on how it works. This approach shows a full project complmeted from start to finish. 
+
+
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+-This is a "loaded question" ,since computer scientists fulfill a large variety of roles depending on their area of expertise. For simplicity, we can here that computer scientists encorporate a diverse level of background knowledge to help solve a stated problem within the realm of computer technology. This problems can deal with security, application development, or engineered planning, but all require a level of devotion and research that allows a "scientist" the ability to have a fundamental grasp on the concepts they are dealing with. As they progress through the development of their work the continue to refine their process based on previous results until a completed working effort is available. Using this approach would give any company a more complete process that can be relied upon and potentially replicated for future endeavors. 
